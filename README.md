@@ -2,8 +2,9 @@
 
 ###Installation
 
-Install ESLint
+Install ESLint.
 If you are using pathogen:
+
 ```vim
 cd ~/.vim/bundle
 git clone https://github.com/sfger/vim-eslint.git
